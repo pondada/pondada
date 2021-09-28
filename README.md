@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 __Skills:__ 
   - Python、Matlab
   - MySQL / MS SQL
+  - MongoDB
   - ETL
   - Data Mining
   - Text Mining
