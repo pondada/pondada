@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## Hello world 👋
 
 - 👋 Hi, I’m pondada
-- 🌱 I’m currently learning Data Engineering and Data Science
+- 🌱 I’m currently learning knowledges and skills about Data Science / Data Engineer
 
 <br>
 
